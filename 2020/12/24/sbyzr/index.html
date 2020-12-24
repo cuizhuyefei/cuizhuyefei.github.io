@@ -23,15 +23,15 @@
     var NexT = window.NexT || {};
     var CONFIG = {"hostname":"example.com","root":"/","images":"/images","scheme":"Pisces","version":"8.1.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}};
   </script>
-<meta name="description" content="2333 $$ \rm orz $$ $$\sum i&#x3D;$$">
+<meta name="description" content="2333 $ \rm orz $ $$\sum i&#x3D;$$">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Hello 233">
 <meta property="og:url" content="http://example.com/2020/12/24/sbyzr/index.html">
 <meta property="og:site_name" content="supy">
-<meta property="og:description" content="2333 $$ \rm orz $$ $$\sum i&#x3D;$$">
+<meta property="og:description" content="2333 $ \rm orz $ $$\sum i&#x3D;$$">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2020-12-24T00:52:50.473Z">
-<meta property="article:modified_time" content="2020-12-24T02:02:35.388Z">
+<meta property="article:modified_time" content="2020-12-24T03:23:48.523Z">
 <meta property="article:author" content="supy">
 <meta name="twitter:card" content="summary">
 
@@ -248,7 +248,7 @@
       <span class="post-meta-item-text">Posted on</span>
       
 
-      <time title="Created: 2020-12-24 08:52:50 / Modified: 10:02:35" itemprop="dateCreated datePublished" datetime="2020-12-24T08:52:50+08:00">2020-12-24</time>
+      <time title="Created: 2020-12-24 08:52:50 / Modified: 11:23:48" itemprop="dateCreated datePublished" datetime="2020-12-24T08:52:50+08:00">2020-12-24</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -271,7 +271,7 @@
     
     <div class="post-body" itemprop="articleBody">
         <p>2333</p>
-<p>$$ \rm orz $$</p>
+<p>$ \rm orz $</p>
 <p>$$\sum i=$$</p>
 
     </div>
@@ -362,6 +362,39 @@
   
 
 
+
+
+  <script>
+  if (typeof MathJax === 'undefined') {
+    window.MathJax = {
+      tex: {
+        inlineMath: {'[+]': [['$', '$']]},
+        tags: 'none'
+      },
+      options: {
+        renderActions: {
+          insertedScript: [200, () => {
+            document.querySelectorAll('mjx-container').forEach(node => {
+              const target = node.parentNode;
+              if (target.nodeName.toLowerCase() === 'li') {
+                target.parentNode.classList.add('has-jax');
+              }
+            });
+          }, '', false]
+        }
+      }
+    };
+    const script = document.createElement('script');
+    script.src = '//cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
+    script.defer = true;
+    document.head.appendChild(script);
+  } else {
+    MathJax.startup.document.state(0);
+    MathJax.typesetClear();
+    MathJax.texReset();
+    MathJax.typeset();
+  }
+</script>
 
 
 
