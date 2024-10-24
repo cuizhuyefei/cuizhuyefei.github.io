@@ -23,4 +23,4 @@ My research interests broadly lie in machine learning. Currently, I am deeply fa
 
 I was a visiting intern in Professor [Fei Fang](https://feifang.info/)'s group in [CMU](https://www.cs.cmu.edu/), also in collaboration with Professor [Geoffrey J. Gordon](https://www.cs.cmu.edu/~ggordon/) and Professor [Lei Li](https://www.cs.cmu.edu/~leili/index.html). Previously, I worked with Professor [Farzan Farnia](https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/) in [Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), and Professor [Li Yi](https://ericyi.github.io/) in [Tsinghua University](https://www.tsinghua.edu.cn/en/). I appreciate the opportunities to work with all of my kind and amazing collaborators.
 
-I am applying for PhD in 2025 Fall. I also love generally chatting about research. Feel free to reach out for any reason!
+I am applying for PhD in 2025 Fall. I also love generally chatting about research or life. Feel free to reach out for any reason!
