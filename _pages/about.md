@@ -18,10 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am Zhourui Ye, a senior undergraduate student majoring in Computer Science at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
+I am Zhourui Ye, a first-year PhD student at Princeton University, co-advised by Professor [Zhuang Liu](https://liuzhuang13.github.io/) and [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I finished my undergraduate study in Computer Science at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
 
-My research interests broadly lie in machine learning. I want to build fundamental understanding of current ML models or LLMs exemplified by [Physics of language models](https://physics.allen-zhu.com/), and thus inspire better ML methods from the technical side. In the long run, I also care about making AI reliable and human-beneficial, which I believe should be an important real-world problem in a few years.
-
-During my undergraduate study, I was fortunate to work with Professor [Fei Fang](https://feifang.info/), [Geoffrey J. Gordon](https://www.cs.cmu.edu/~ggordon/), [Lei Li](https://www.cs.cmu.edu/~leili/index.html), [Farzan Farnia](https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/), and [Li Yi](https://ericyi.github.io/).
-
-I am applying for PhD in 2025 Fall. I also love generally chatting about research or life. Feel free to reach out for any reason!
+My research interest is to develop better understanding into the current ML models and improve their capabilities. I love generally chatting about research or life. Feel free to reach out for any reason!
