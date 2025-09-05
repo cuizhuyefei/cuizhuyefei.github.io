@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am Zhourui Ye, a first-year PhD student at Princeton University, co-advised by Professor [Zhuang Liu](https://liuzhuang13.github.io/) and [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I finished my undergraduate study in Computer Science at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
+I am Zhourui Ye, a first-year PhD student at Princeton University, where I'm very fortunate to be co-advised by Professor [Zhuang Liu](https://liuzhuang13.github.io/) and [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I finished my undergraduate study in Computer Science at [Yao Class](https://iiis.tsinghua.edu.cn/en/Yao_Class/About_Yao_Class.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 My research interest is to develop better understanding into the current ML models and improve their capabilities. I love generally chatting about research or life. Feel free to reach out for any reason!
