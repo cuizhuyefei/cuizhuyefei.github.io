@@ -6,12 +6,10 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Yao Class 13, Tsinghua University</p>
     <p>cuizhuyefei at gmail dot com</p>
-    <span style="font-size: 0.75rem;"><p>Photo taken by <a href="https://lijinhan21.github.io/">Jinhan Li</a>.</p></span>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
